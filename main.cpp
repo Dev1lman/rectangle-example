@@ -6,6 +6,10 @@ C#, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS, JS, S
 Code, Compile, Run and Debug online from anywhere in world.
 
 *******************************************************************************/
+/*
+Name: Alex Bales
+Date: 8/25/22
+*/
 #include <iostream>
 using namespace std;
 
